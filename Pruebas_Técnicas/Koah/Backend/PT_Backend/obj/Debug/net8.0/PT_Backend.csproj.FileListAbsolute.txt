@@ -1,0 +1,15 @@
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/bin/Debug/net8.0/PT_Backend
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/bin/Debug/net8.0/PT_Backend.deps.json
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/bin/Debug/net8.0/PT_Backend.runtimeconfig.json
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/bin/Debug/net8.0/PT_Backend.dll
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/bin/Debug/net8.0/PT_Backend.pdb
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.AssemblyInfoInputs.cache
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.AssemblyInfo.cs
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.csproj.CoreCompileInputs.cache
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.sourcelink.json
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.dll
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/refint/PT_Backend.dll
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.pdb
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/PT_Backend.genruntimeconfig.cache
+/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/Debug/net8.0/ref/PT_Backend.dll
