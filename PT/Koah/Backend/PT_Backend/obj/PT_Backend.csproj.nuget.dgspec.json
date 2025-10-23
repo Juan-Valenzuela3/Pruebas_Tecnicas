@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj": {}
+  },
+  "projects": {
+    "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
+        "projectName": "PT_Backend",
+        "projectPath": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
+        "packagesPath": "/home/farid/.nuget/packages/",
+        "outputPath": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/farid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+## Patrón
+1. Cada linea representa una fila de una matriz
+2. Los números se colocan desde el borde exterior hacia el centro.
+3. En cada fila, los números se colocan primero en ordern ascendente y desde la mitad empieza en orden descendente, con los valores más altos en el extremo derecho.
+4. Los guiones podrían indicar el nivel de indentación, cuán profundo podría estar esa fila respecto al borde de la matriz.
+5. n podría representar el tamaño de la matriz, la cantidad de filas que contendrá. Asimismo, indica la cantidad de valores que asciende e indica el punto de partida para el momento de descenso.
+6. Cada nueva fila parte desde el último número de ascenso de la fila posterior, patrón de serpiente. También, para cada nueva fila, se aumentan dos guiones.
+7. En cuanto a cada nueva fila respecto al patrón descendente, cada nueva fila disminuye en -1 el valor de "n" de su predescesor.
+8. Cada nueva fila disminuye los valores ascendentes y descendentes en n-1
+9.El parámetro que determina el número por el cual comenzará a descender no depende del último número ascendente de esa fila, sino que se calcula usando n y la posición de la fila. Para la primera fila el valor inicial del descenso se calcula con la fórmula: D = n(n+3)/2
