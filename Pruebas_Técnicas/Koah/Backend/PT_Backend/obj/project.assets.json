@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
+      "projectUniqueName": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
       "projectName": "PT_Backend",
-      "projectPath": "/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
+      "projectPath": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
       "packagesPath": "/home/farid/.nuget/packages/",
-      "outputPath": "/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/",
+      "outputPath": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/farid/.nuget/NuGet/NuGet.Config"
@@ -7801,11 +7801,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7837,7 +7832,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

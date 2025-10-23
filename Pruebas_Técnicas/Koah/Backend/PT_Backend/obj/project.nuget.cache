@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DiqxQz1KULg=",
+  "dgSpecHash": "7GocGivchr1Wvm0E6EeFzwYNOrqXo4NxNQgj6NryAHDgIYhmFI7LANziJ2a7XQutkVGCa1kjqjY4umwURl+SRw==",
   "success": true,
-  "projectFilePath": "/home/farid/Git-Repository/Pruebas_T-cnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
+  "projectFilePath": "/home/farid/Git-Repository/Pruebas_Tecnicas/Pruebas_Técnicas/Koah/Backend/PT_Backend/PT_Backend.csproj",
   "expectedPackageFiles": [
     "/home/farid/.nuget/packages/microsoft.aspnetcore.antiforgery/2.3.0/microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
     "/home/farid/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.3.0/microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
